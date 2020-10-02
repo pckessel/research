@@ -1,1 +1,1 @@
-# Mounting Angular JS components inside of a React Applicaiton
+# Mounting AngularJS components inside of a React Applicaiton
